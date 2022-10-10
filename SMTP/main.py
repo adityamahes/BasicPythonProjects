@@ -4,8 +4,8 @@ import random
 import smtplib
 
 now = dt.datetime.now()
-my_email = "yourawesomebirthdaywisher@gmail.com"
-password = "eWj5*5h$1RF)jPs"
+my_email = ""
+password = ""
 
 while True:
     if now.weekday() == 6:
