@@ -1,0 +1,7 @@
+How does email work?
+    1. Behind the scenes, your mail server (gmail) will receive your mail.
+    2. It is then transferred to the recipients email server
+    3. The recipients email server stores the email until the recipient opens mail
+    4. Once the email is opened the email is downloaded.
+   * All of this it relies on SMTP, which contains all the rules that determine hw the email is sent
+    *SMTP is basically the postman, the servers are the post offices, and the recipient's computer is the postbox.
