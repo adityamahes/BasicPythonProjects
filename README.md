@@ -1,2 +1,2 @@
-# Python Games Collection
-Collection of simple yet fun graphcal and non-graphical games.
+# Python Projects
+Collection of simple fun, graphical, educational games and programs that I made!
